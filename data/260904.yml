@@ -7,7 +7,7 @@ about:
   head: a92577f
   archived: false
   latestVersion: 0.1.5
-  collectedAt: 2026-09-04T19:25:05Z
+  collectedAt: 2026-09-04T21:07:06Z
 timeline:
   created: 2025-08-01
   lastCommit: 2026-04-18
@@ -81,5 +81,33 @@ total:
   openIssue: 1
   commit: 102
 ---
+path: /home/runner/.x-repo/github.com/hzqtc/cashd
+collectedAt: 2026-09-04T21:07:07Z
+loc:
+  Go:
+    code: 3325
+    comments: 100
+    blanks: 528
+    files: 30
+  Makefile:
+    code: 41
+    comments: 0
+    blanks: 10
+    files: 1
+  Json:
+    code: 11
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 119
+    blanks: 53
+    files: 1
+total:
+  code: 3421
+  comments: 219
+  blanks: 591
+  files: 33
 ---
 
