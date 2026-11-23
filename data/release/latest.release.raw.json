@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 3268521,
       "digest": "sha256:293d611213d1b77d6daa5416ed00a7f00031ccab2d93c2f71dae31855389e1ec",
-      "download_count": 367,
+      "download_count": 369,
       "created_at": "2025-10-04T03:26:45Z",
       "updated_at": "2025-10-04T03:26:46Z",
       "browser_download_url": "https://github.com/hzqtc/cashd/releases/download/0.1.5/cashd-linux-amd64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 3035883,
       "digest": "sha256:7da10e2977363c47f2ed11038a5628658257c03b15e5a40ae2e9f7adbebe00ac",
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2025-10-04T03:26:45Z",
       "updated_at": "2025-10-04T03:26:46Z",
       "browser_download_url": "https://github.com/hzqtc/cashd/releases/download/0.1.5/cashd-linux-arm64.tar.gz"
